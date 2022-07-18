@@ -1,6 +1,7 @@
 {
   "name": "3d_elements_website",
   "version": "0.1.0",
+  "homepage": "https://manemaria.github.io/3d_elements_website",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.5",
