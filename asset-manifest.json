@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/3d_elements_website/static/js/main.1413dbd5.js",
+    "static/media/map.jpg": "/3d_elements_website/static/media/map.5f0d981b22315fd48ca2.jpg",
+    "static/media/blur-layer.webp": "/3d_elements_website/static/media/blur-layer.14b88556569cc43d61cd.webp",
+    "static/media/mountain3.svg": "/3d_elements_website/static/media/mountain3.d9f37d75faad66cdf34ad686609240a7.svg",
+    "static/media/mountain1.svg": "/3d_elements_website/static/media/mountain1.74a8127ee6df90aaace9ac4797a1b7d6.svg",
+    "static/media/mountain2.svg": "/3d_elements_website/static/media/mountain2.f3cf4ef832ddaa53503803c5efdaf82a.svg",
+    "static/media/mountain5.svg": "/3d_elements_website/static/media/mountain5.22dbbf1167f323090fdaf252667a0476.svg",
+    "static/media/mountain4.svg": "/3d_elements_website/static/media/mountain4.6282cf939309007645d8d46995ff5dd1.svg",
+    "index.html": "/3d_elements_website/index.html",
+    "static/media/hero-wave.svg": "/3d_elements_website/static/media/hero-wave.685dfe3b6267036bf639f2bf23c425a3.svg",
+    "main.1413dbd5.js.map": "/3d_elements_website/static/js/main.1413dbd5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1413dbd5.js"
+  ]
+}
